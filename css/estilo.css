@@ -1,5 +1,17 @@
+a{
+    text-decoration: none;
+}
 .caixa{
     padding: 50px 0;
+}
+.buttom-custom{
+     background: #242E6C;
+    padding: 10px 15px;
+    color: #FFFFFF;
+    margin-top: 20px;
+}
+.buttom-custom:hover{
+    border: 2px solid #000; 
 }
 /*------Nav Bar
 ----------------------*/
@@ -16,16 +28,9 @@
 /*-----Prestadores
 --------------------*/
 #prestadores a{
-    background: #242E6C;
-    padding: 10px 15px;
-    color: #FFFFFF;
-    margin-top: 20px;
-    
+   color:#FFFFFF;  
 }
-#prestadores a:hover{
-    border: 2px solid #000;
-    
-}
+
 #prestadores p{
     font-size: 1.5em;
 }
@@ -48,6 +53,9 @@
 }
 #vagas p{
     margin-top: 40px;
+}
+#vagas p a{
+    color: #FFFFFF;
 }
 #vagas h2{
     text-align: left;
