@@ -1,0 +1,64 @@
+.caixa{
+    padding: 50px;
+}
+/*------Nav Bar
+----------------------*/
+.navbar-custom{
+    background: #242E6C;
+}
+
+/*-------banner
+----------------------*/
+#banner{
+    height:500px;
+    background: linear-gradient(50deg,#242E6C,#ffffff);
+}
+/*-----Prestadores
+--------------------*/
+#prestadores a{
+    background: #242E6C;
+    padding: 10px 15px;
+    color: #FFFFFF;
+    margin-top: 20px;
+    
+}
+#prestadores a:hover{
+    border: 2px solid #000;
+    
+}
+#prestadores p{
+    font-size: 1.5em;
+}
+/*------Vagas
+-------------------*/
+#vagas{
+    background: url(../imagens/banner_vagas.png) no-repeat center;
+}
+#vagas ul{
+    list-style: none;
+    padding: 0px;
+}
+#vagas li{
+    padding: 10px;
+}
+#vagas a{
+    text-decoration: none;
+    font-size: 24px;
+    color: #000;
+}
+#vagas p{
+    margin-top: 40px;
+}
+#vagas h2{
+    text-align: left;
+}
+/*-----Typography
+-----------------*/
+h1{
+    
+}
+h2{
+    text-align: center;
+    margin-bottom: 40px;
+    color: #242E6C;
+}
