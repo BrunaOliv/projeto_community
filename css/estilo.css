@@ -68,6 +68,11 @@ a{
 .carousel-control-next, .carousel-control-prev{
     color: #242E6C !important;
 }
+/*-------Contato
+-----------------------*/
+#contato{
+    background: url(../imagens/fundo-form.png) no-repeat center;
+}
 /*-----Typography
 -----------------*/
 h1{
