@@ -69,6 +69,9 @@ a{
 .carousel-control-next, .carousel-control-prev{
     color: #242E6C !important;
 }
+#blog p{
+    font-size: 0.9em;
+}
 /*-------Contato
 -----------------------*/
 #contato{
@@ -103,6 +106,10 @@ h2{
     text-align: center;
     margin-bottom: 40px;
     color: #242E6C;
+}
+h3{
+    color: #242E6C;
+    font-size: 3em;  
 }
 h5{
     color: #242E6C;
